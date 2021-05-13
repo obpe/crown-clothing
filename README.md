@@ -1,3 +1,6 @@
+#### using React/Redux and apply middleware to build this application with login/logout, shop cart, checkout processes functionalities. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
